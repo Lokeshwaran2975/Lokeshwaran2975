@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
+# <h1 align="center">Hi 👋, I'm Lokeshwaran</h1>
 
 <h3 align="center">
-AI & Machine Learning Engineer | Generative AI Enthusiast | Building Intelligent Applications
+AI Engineer • Machine Learning Engineer • Generative AI Developer
 </h3>
 
 <p align="center">
+Building Intelligent AI Systems that transform data into decisions.
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+Engineer;Machine+Learning+Developer;Generative+AI+%7C+RAG+Developer;Computer+Vision+Enthusiast;Always+Learning+New+Technologies" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/lokeshwaran29/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Lokeshwaran2975/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/lokeshwaran2975">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="mailto:lokeshwaran2975@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
@@ -14,260 +32,202 @@ AI & Machine Learning Engineer | Generative AI Enthusiast | Building Intelligent
 
 # 🚀 About Me
 
-🎓 B.Tech Graduate in **Artificial Intelligence & Data Science**
+I'm an **Artificial Intelligence & Data Science graduate** passionate about building intelligent, production-ready AI systems.
 
-💻 Passionate about building real-world AI applications using
+My interests span across **Machine Learning**, **Deep Learning**, **Computer Vision**, **Large Language Models (LLMs)**, and **Generative AI**, with a strong focus on solving real-world problems through scalable AI solutions.
 
-- Machine Learning
-- Deep Learning
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision
-- Intelligent Automation
-
-I enjoy solving real-world problems with AI and continuously exploring cutting-edge technologies in Generative AI.
-
-Currently focused on
-
-- 🤖 Advanced RAG Systems
-- 🧠 LLM Applications
-- 🔥 LangChain & LangGraph
-- 📊 AI-powered Market Intelligence
-- ⚡ Production-ready AI Solutions
+I enjoy designing systems that go beyond model development—from data pipelines and retrieval architectures to deployment-ready AI applications.
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 Career Vision
 
-<p align="left">
+I aspire to contribute to cutting-edge AI research and engineering by developing intelligent systems that are reliable, scalable, and impactful.
 
-<a href="https://www.linkedin.com/in/lokeshwaran29/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+**Target Roles**
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:lokeshwaran2975@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+* AI Research Engineer
+* Generative AI Engineer
+* LLM Engineer
+* AI Product Engineer
+* Machine Learning Engineer
 
 ---
 
-# 💼 Current Focus
-
-🚀 Developing an advanced **MarketIntel** platform featuring:
-
-- Dynamic RAG Architecture
-- Hybrid Search
-- Cross Encoder Reranking
-- Metadata-aware Retrieval
-- LangGraph Workflow
-- ChromaDB Vector Database
-- Intelligent Financial Document Analysis
-
----
-
-# 🛠 Tech Stack
-
-## 💻 Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,sql"/>
-
-</p>
-
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
-
-</p>
-
-**Experienced With**
-
-- Scikit-Learn
-- Keras
-- XGBoost
-- CNN
-- YOLO
-- Transformers
-- Hugging Face
-- NLP
-- Embeddings
-- Vector Search
-
----
-
-## 🧠 Generative AI
-
-- OpenAI API
-- Ollama
-- LangChain
-- LangGraph
-- RAG
-- Prompt Engineering
-- ChromaDB
-- FAISS
-- Pinecone
-- Cross Encoder Re-ranking
-- Hybrid Retrieval
-- Metadata Filtering
-
----
-
-## 🌐 Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
-
-</p>
-
----
-
-## 🗄 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
-Also worked with
-
-- ChromaDB
-- Vector Databases
-
----
-
-## ⚙️ Tools & Platforms
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker"/>
-
-</p>
-
-Also use
-
-- Jupyter Notebook
-- Power BI
-- Google Colab
-
----
-
-# 🚀 Featured Projects
+# 💼 What I'm Currently Working On
 
 ## 📈 MarketIntel
 
-Advanced Financial Intelligence Assistant powered by RAG
+A production-oriented Financial Intelligence platform powered by Retrieval-Augmented Generation (RAG).
 
-✨ Features
+### Highlights
 
-- Dynamic Retrieval-Augmented Generation
-- Hybrid Search
-- Metadata-aware Retrieval
-- Cross Encoder Re-ranking
-- LangGraph Workflow
-- ChromaDB Vector Store
-- Financial Document QA
+* Dynamic RAG Pipeline
+* Hybrid Retrieval
+* Metadata-aware Search
+* Cross Encoder Re-ranking
+* LangGraph Workflow
+* ChromaDB Vector Database
+* Financial Report Intelligence
+* Modular Architecture
+* Retrieval Optimization
 
-**Tech Used**
+**Tech**
 
 Python • LangChain • LangGraph • ChromaDB • Ollama • OpenAI • Transformers
 
 ---
 
+# 🧠 Tech Arsenal
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,sql"/>
+</p>
+
+---
+
+## Artificial Intelligence
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* Large Language Models
+* Retrieval-Augmented Generation (RAG)
+* Prompt Engineering
+* Embedding Models
+
+---
+
+## Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,fastapi"/>
+</p>
+
+Additional Experience
+
+* Scikit-Learn
+* Keras
+* XGBoost
+* Hugging Face Transformers
+* LangChain
+* LangGraph
+
+---
+
+## Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
+
+Also Experienced With
+
+* ChromaDB
+* FAISS
+* Pinecone
+
+---
+
+## Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 📊 MarketIntel
+
+Financial Intelligence Assistant powered by LLMs and Retrieval-Augmented Generation.
+
+**Features**
+
+* Dynamic document ingestion
+* Hybrid retrieval
+* Cross Encoder reranking
+* Metadata-aware retrieval
+* Financial report understanding
+* LangGraph workflow orchestration
+* Intelligent question answering
+
+---
+
 ## 🦁 WildVision
 
-AI-powered Wildlife Detection & Alert System
+Real-time Wildlife Detection and Alert System.
 
-Features
+Built using YOLO-based object detection to identify wildlife from live video streams and support human-wildlife conflict prevention.
 
-- Real-time Detection
-- YOLO Object Detection
-- Human-Wildlife Conflict Prevention
-- Live Camera Support
-
-Tech
+**Technology**
 
 YOLO • OpenCV • Python
 
 ---
 
-## 😴 Driver Drowsiness Detection System
+## 😴 Driver Drowsiness Detection
 
-Real-time Driver Safety Monitoring
+AI-powered safety system capable of monitoring driver alertness using computer vision.
 
-Features
+**Features**
 
-- Eye Detection
-- CNN Classification
-- Live Webcam Monitoring
-- Alarm System
-- Flask Web Interface
-
-Tech
-
-CNN • TensorFlow • OpenCV • Dlib • Flask
+* Eye state detection
+* CNN classification
+* Real-time monitoring
+* Alarm notification
+* Flask interface
 
 ---
 
-## 🌱 Plant Disease Classification
+# 💼 Professional Experience
 
-Deep Learning based Crop Disease Detection
+### AI / Machine Learning Intern
 
-Tech
+**Elevate Labs**
 
-TensorFlow • CNN • Image Classification
-
----
-
-## 🏠 House Price Prediction
-
-Machine Learning Regression Project
-
-Tech
-
-Scikit-Learn • Pandas • NumPy
+* Developed and evaluated machine learning models
+* Performed feature engineering and model optimization
+* Worked on regression and classification tasks
+* Applied cross-validation techniques
 
 ---
 
-## 💳 Credit Card Fraud Detection
+### Python Programming Intern
 
-Machine Learning Classification
+**MSME Technology Development Centre**
 
-Tech
-
-Python • Scikit-Learn
-
----
-
-## 🎬 Movie Genre Classification
-
-Natural Language Processing
-
-Tech
-
-TF-IDF • Logistic Regression • Naive Bayes • SVM
+* Developed Python applications
+* Built Flask-based web projects
+* Data preprocessing
+* Data visualization using NumPy and Matplotlib
 
 ---
 
-## 📩 Spam SMS Detection
+# 📜 Certifications
 
-NLP Classification
+* AI & Machine Learning Internship – Elevate Labs
+* Python Programming Internship – MSME Technology Development Centre
+* Machine Learning Internship – CodSoft
+* Machine Learning Internship – Technohacks
+* Pearson MePro Certification
 
-Tech
+---
 
-Python • NLP • Machine Learning
+# 📚 Currently Learning
+
+* Agentic AI
+* Multi-Agent Systems
+* Model Context Protocol (MCP)
+* Advanced RAG
+* AI Agents
+* LangGraph
+* LlamaIndex
+* AI System Design
 
 ---
 
@@ -275,80 +235,58 @@ Python • NLP • Machine Learning
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lokeshwaran2975&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lokeshwaran2975&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://streak-stats.demolab.com?user=Lokeshwaran2975&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=10"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lokeshwaran2975&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 📚 Currently Learning
+<p align="center">
 
-- Agentic AI
-- Multi-Agent Systems
-- LangGraph
-- Advanced RAG
-- LlamaIndex
-- MCP
-- AI Deployment
-- Docker
-- Kubernetes
+<img src="https://github-profile-trophy.vercel.app/?username=Lokeshwaran2975&theme=tokyonight&no-frame=true&margin-w=12"/>
+
+</p>
 
 ---
 
-# 🎯 Career Objective
+# 📫 Let's Connect
 
-Seeking opportunities as an
+📍 Chennai, Tamil Nadu, India
 
-- AI Engineer
-- Machine Learning Engineer
-- Generative AI Engineer
-- LLM Engineer
-- Computer Vision Engineer
+📧 **[lokeshwaran2975@gmail.com](mailto:lokeshwaran2975@gmail.com)**
 
-where I can build scalable, production-ready AI solutions that solve real-world problems.
+💼 LinkedIn
+https://www.linkedin.com/in/lokeshwaran29/
+
+💻 GitHub
+https://github.com/Lokeshwaran2975
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+*"The best AI systems are not just intelligent—they are useful, reliable, and built to solve real-world problems."*
 
 </p>
 
 <p align="center">
-
-⭐ If you like my work, consider giving a star to my repositories!
-
+⭐ Thank you for visiting my profile!
 </p>
